@@ -1,50 +1,50 @@
 # Data_Visualization_Python
 Week 2 Day 4 - Data Visualization (dataviz) using Python (matplotlib and seaborn)
 
-## Graphe 1
-Réaliser un graphique avec deux axes. L'axe des abscisses va de 0 à 50 et s'intitule "Axe des x". L'axe des ordonnées s'intitule "Axe des y".
-Tracer la droite d'équation : x = 3y. Avec x allant de 0 à 50.
-Le graphe possède le titre suivant "Tracer une droite" et la droite est de couleur rouge.
+### Graph 1
+Create a graph with two axes. The x-axis goes from 0 to 50 and is called "x-axis". The y-axis is labeled "y-axis".
+Draw the line of equation: x = 3y. With x ranging from 0 to 50.
+The graph has the following title "Draw a straight line" and the line is red.
 
-## Graphe 2
-Pour les graphes suivants, tu peux télécharger le fichier des ventes 2020 d'une entreprise de cosmétiques ici.
+## Cosmetics company sales data
+For the following graphs, we will use the sales data from a cosmetics company, from the file "company_sales_data.csv".  
 
-En premier lieu, nous souhaitons un graphe qui donne la courbe du profit total réalisé chaque mois.
+### Graph 2
+First, we want a graph that gives the curve of total profit realized per month.
 
-## Graphe 3
-Ensuite, nous souhaitons un graphe qui donne la courbe de profit pour chaque produit, en fonction du temps.
-Chaque courbe aura une couleur différente et nous souhaitons une légende qui indique quelle couleur correspond à quel produit.
+### Graph 3
+Next, we want a graph that gives the profit curve for each product, as a function of time.
+Each curve will have a different color and we want a legend that indicates which color corresponds to which product.
 
-## Graphe 4
-Nous souhaitons un graphe qui compare, chaque mois, le nombre d'unités vendus pour chaque produit. A vous de choisir la meilleure représentation pour connaître le produit le plus vendu par mois.
+### Graph 4
+We want a graph that compares, each month, the number of units sold for each product. It's up to you to choose the best representation to know the best-selling product per month.
 
-## Graphe 5
-Nous souhaitons un graphe qui donne la contribution de chaque produit dans le profit total (sur l'année étudiée). Merci d'ajouter le pourcentage pour chaque produit.
+### Graph 5
+We want a graph that gives the contribution of each product in the total profit (over the year studied). Please add the percentage for each product.
 
-## Graphe 6
-Maintenant, on va changer de source de données. Et on va revenir au projet d'hier. Demande-toi si hier, tu as pensé à faire des graphes. Si oui, c'est top, ça montre que c'est intuitif de devoir visualiser certaines données. Si non, c'est normal, on n'avait pas encore vu ça dans les ressources. Sache qu'à partir de maintenant, tout va te paraître plus facile car tu penseras toujours faire des représentations graphiques.
+## Bookstore sales data
+Now, we are going to change the data source. And we're going to come back to yesterday's project. Ask yourself if yesterday you thought about making graphs. If so, that's great, it shows that it's intuitive to have to visualize certain data. If not, it's normal, we hadn't seen that in the resources yet. Know that from now on, everything will seem easier to you because you will always think of making graphic representations. Thus, get the 3 csv files which give the sales, the list of customers and the list of products.
 
-Reprend donc les 3 fichiers csv qui donnent les ventes, la liste des clients et la liste des produits.
+### Graph 6
+First, we want to have a pie chart that gives the distribution of products by category. Please indicate the percentage per product (nb of products of such category / nb of total products).
 
-D'abord, nous souhaitons avoir un graphe pie chart qui donne la répartition des produits par catégorie. Merci d'indiquer le pourcentage par produit (nb de produits de telle catégorie / nb de produits totaux).
+### Graph 7
+We want a graph that gives the evolution of turnover for each category (as a function of time).
 
-## Graphe 7
-Nous souhaitons un graphe qui donne l'évolution du CA pour chaque catégorie (en fonction du temps).
+### Graph 8
+We want a graph that gives a boxplot of the price distribution of a product for each category. Clearly, the graph shows 3 boxplots (one corresponding to category 0, one to category 1 and one to category 2).
 
-## Graphe 8
-Nous souhaitons un graphe qui donne un boxplot de la répartion des prix d'un produit pour chaque catégorie. En clair, le graphe montre 3 boxplots (un qui correspond à la catégorie 0, un à la catégorie 1 et un à la catégorie 2).
+### Graph 9
+We want a graph that gives the distribution of turnover, for each month, according to the gender of the customer.
 
-## Graphe 9
-Nous souhaitons un graphe qui donne la répartition du CA, pour chaque mois, en fonction du genre du client.
+### Graph 10
+We want a graph which, for each transaction, links the age group of the customer and the amount of the transaction.
 
-## Graphe 10
-Nous souhaitons un graphe qui, pour chaque transaction, lie tranche d'âge du client et montant de la transaction.
+### Graph 11
+We want a graph which, for each item, links price and number of items sold during the period.
 
-## Graphe 11
-Nous souhaitons un graphe qui, pour chaque article, lie prix et nombre d'articles vendus pendant la période.
+### Graph 12
+We want a graph that gives the distribution of the average basket (for each transaction).
 
-## Graphe 12
-Nous souhaitons un graphe qui donne la répartition du panier moyen (à chaque transaction).
-
-## Autres graphes
-Trouver 3 autres graphes qui peuvent être utiles à la compréhension des ventes de la chaîne de librairies.
+### Other graphs
+Find 3 other graphs that can be useful in understanding the sales of the bookstore chain.
