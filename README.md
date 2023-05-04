@@ -19,6 +19,7 @@ First, we want a graph that gives the curve of total profit realized per month.
 ### Graph 3
 Next, we want a graph that gives the profit curve for each product, as a function of time.
 Each curve will have a different color and we want a legend that indicates which color corresponds to which product.
+
 <img src=graphs/graph2345.png>
 
 ### Graph 4
