@@ -1,10 +1,14 @@
 # Data_Visualization_Python
 Week 2 Day 4 - Data Visualization (dataviz) using Python (matplotlib and seaborn)
+</br>
 
-### Graph 1
+### Graph 1 <img align=right src=/graph1.png width="500">
+
 Create a graph with two axes. The x-axis goes from 0 to 50 and is called "x-axis". The y-axis is labeled "y-axis".
 Draw the line of equation: x = 3y. With x ranging from 0 to 50.
 The graph has the following title "Draw a straight line" and the line is red.
+</br>
+</br>
 
 ## Cosmetics company sales data
 For the following graphs, we will use the sales data from a cosmetics company, from the file "company_sales_data.csv".  
