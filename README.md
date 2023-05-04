@@ -2,7 +2,7 @@
 Week 2 Day 4 - Data Visualization (dataviz) using Python (matplotlib and seaborn)
 </br>
 
-### Graph 1 <img align=right src=/graph1.png width="500">
+### Graph 1 <img align=right src=graphs/graph1.png width="500">
 
 Create a graph with two axes. The x-axis goes from 0 to 50 and is called "x-axis". The y-axis is labeled "y-axis".
 Draw the line of equation: x = 3y. With x ranging from 0 to 50.
@@ -19,6 +19,7 @@ First, we want a graph that gives the curve of total profit realized per month.
 ### Graph 3
 Next, we want a graph that gives the profit curve for each product, as a function of time.
 Each curve will have a different color and we want a legend that indicates which color corresponds to which product.
+<img src=graphs/graph2345.png>
 
 ### Graph 4
 We want a graph that compares, each month, the number of units sold for each product. It's up to you to choose the best representation to know the best-selling product per month.
